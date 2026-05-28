@@ -1,0 +1,6 @@
+{
+  "name": "Gribo-chat",
+  "description": "An elegant AI chat assistant with document uploading, smart models, custom image generation, and personalized dynamic background settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
